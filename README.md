@@ -30,6 +30,6 @@ This simple calculator was built uisng html 5, css3 and js. the design of the ca
 #### Data cleansing with php
 We had a .tsv file containing containing 867 questions along with its answers. the file contains numbers and words we didn't want at the begining of each question. we had to clean the file removing the numbers and the word "factiod" from the begining of each question. we created a new file containing the cleansed questions.
 
-####Contributors
+#### Contributors
 - Okiti Osivwi
 - Others
